@@ -1,0 +1,15 @@
+.container{
+    height: 500px;
+}
+.sidebar{
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+    background-color: brown;
+  }
+  .content{
+    display: inline-block;
+    width: 70%;
+    height: 100%;
+    background-color: blue;
+  }
